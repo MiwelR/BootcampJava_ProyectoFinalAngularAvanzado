@@ -1,0 +1,21 @@
+.navbar {
+    background-color: rgb(26, 26, 26);
+}
+
+.navbar-brand {
+    text-align: left;
+    color: #fff;
+}
+
+img {
+    margin-left: 2rem;
+}
+
+.btn {
+    text-decoration: none;
+    color: #00bce4;
+}
+
+.btn:hover {
+    color: #01647b;
+}

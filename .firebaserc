@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-avanzado-bccc9": {
+      "hosting": {
+        "angular-avanzado": [
+          "angular-avanzado-bccc9"
+        ]
+      }
+    }
+  }
+}

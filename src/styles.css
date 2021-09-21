@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '~ngx-toastr/toastr';
+body {
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url("https://images.squarespace-cdn.com/content/v1/5516199be4b05ede7c57f94f/1488268377432-S5UZ847MX37CRILMICMJ/light-blue-wallpaper-7846-8139-hd-wallpapers-1024x576.jpg?format=1500w") no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    background-color: rgb(26, 26, 26);
+}
+
+.card-body {
+    color: #fff;
+}
+
+mat-card {
+    background-color: rgb(26, 26, 26);
+    color: #fff;
+}
